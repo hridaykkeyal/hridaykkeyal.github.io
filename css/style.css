@@ -11,3 +11,18 @@ body {
 	text-align: justify;
   	text-justify: inter-word;
 }
+
+.btn {
+	font-size: 20px !important;
+}
+
+.button-div {
+	margin: auto;
+	width: 100%;
+	padding: 10px;
+	font-size: 24px;
+	text-align: center;
+	margin-top: 40vh;
+	font-size: 30px !important;
+	color: white;
+}
